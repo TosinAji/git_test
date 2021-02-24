@@ -1,1 +1,1 @@
-This is Tomi's first project.
+This is a test project by Tomi
